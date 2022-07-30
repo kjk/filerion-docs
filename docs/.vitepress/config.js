@@ -11,7 +11,7 @@ export default {
       {
         text: "Main",
         items: [
-          { text: "Filerion", link: "/filerion-manual" },
+          { text: "Filerion", link: "/index" },
           { text: "S3 Config", link: "/s3-support" },
           {
             text: "Upload files from computer",
