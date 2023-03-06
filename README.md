@@ -1,2 +1,1 @@
-# filerion-docs
-docs for https://filerion.com
+Docs, issues, discussion for https://filerion.com
